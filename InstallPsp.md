@@ -2,12 +2,12 @@
 - Install last pspdev/pspsdk follow steps from https://pspdev.github.io/
 - clone this repository and execute if you are in Unix like environtment including wsl2:
 ```
-sudo -E ./pspbuild.sh
+./pspbuild.sh
 ```
 
 ## using SDL backend
 ```
-sudo -E ./pspbuild_sdl2.sh
+./pspbuild_sdl2.sh
 ```
 
 # Samples
