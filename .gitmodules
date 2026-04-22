@@ -1,4 +1,4 @@
 [submodule "raylib"]
 	path = raylib
 	url = https://github.com/mcidclan/raylib4Consoles
-	branch = raylib4Consoles
+	branch = raylib4Consoles_6.0
