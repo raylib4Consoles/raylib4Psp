@@ -5,6 +5,11 @@
 ./pspbuild.sh
 ```
 
+## using SDL backend
+```
+./pspbuild_sdl2.sh
+```
+
 # Samples
 - in each sample use make to build
 ```

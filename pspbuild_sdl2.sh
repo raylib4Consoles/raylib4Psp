@@ -5,6 +5,6 @@ if test ! $PSPDEV; then { echo "ERROR: Set \$PSPDEV installing pspdev toolchain 
 git submodule update --init --recursive
 
 cd raylib/src
-make PLATFORM=PLATFORM_PSP clean
-make PLATFORM=PLATFORM_PSP
-make PLATFORM=PLATFORM_PSP install
+make PLATFORM=PLATFORM_PSP_SDL clean
+make PLATFORM=PLATFORM_PSP_SDL
+make PLATFORM=PLATFORM_PSP_SDL install

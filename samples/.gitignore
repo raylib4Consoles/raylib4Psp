@@ -1,0 +1,10 @@
+# PSP build artifacts and debug files
+EBOOT.PBP
+PARAM.SFO
+*.prx
+usbhostfs_pc
+
+**/EBOOT.PBP
+**/PARAM.SFO
+**/*.prx
+**/usbhostfs_pc
