@@ -16,6 +16,7 @@ Ready to learn? Jump to [code examples!](https://www.raylib.com/examples.html)
 
 Change log
 ===========================
+ - 22/4/2026 sync with raylib 6.0 and add new sdl backend and sample from @mcidclan
  - 13/10/2024 Initial raylib4Psp public release 
  
 
@@ -25,6 +26,7 @@ Change log
  - @raysan5 for his amazing work with raylib and raylib has an incredible community developing in the open way!!!! 
  - all people involved in homebrew tools and libraries for PSP [PSPDEV](https://pspdev.github.io/).
  - Holger Waechtler and Jeremy Fitzhardinge for pspgl included in pspdev
+ -  @mcidclan for sdl backend and sample
  
  
   License
